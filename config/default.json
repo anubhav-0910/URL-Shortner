@@ -1,0 +1,4 @@
+{
+  "mongoURI" : "mongodb+srv://anubhav:%21Mla%402025@cluster.bitjobi.mongodb.net/?retryWrites=true&w=majority",
+  "baseURL" : "http://localhost:8000"
+}
